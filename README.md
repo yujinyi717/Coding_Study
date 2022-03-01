@@ -6,6 +6,7 @@ Coding Study Repository
     - X만큼 간격이 있는 N개의 숫자
     - 숫자 문자열과 영단어
     - K 번째 수
+    - 두개 뽑아서 더하기
 
   - Lv_2
     - N개의 최소공배수
