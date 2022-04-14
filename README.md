@@ -12,6 +12,7 @@ Coding Study Repository
     - 음양더하기
     - 실패율 
     - 핸드폰 번호가리기
+    - 콜라츠 추측
 
   - Lv_2
     - N개의 최소공배수
